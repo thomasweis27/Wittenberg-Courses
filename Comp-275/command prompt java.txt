@@ -1,0 +1,5 @@
+1. Go to folder
+2. type "javac QuickFindClient.java"
+    (name of program to compile)
+3. type "java QuickFindClient tinyUF10.txt"
+     (compiled file and component files)
