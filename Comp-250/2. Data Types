@@ -1,0 +1,29 @@
+Primative Data Types
+Numerics: 
+    Byte
+    short
+    int
+    long
+    float
+    double
+Other:
+    char
+    boolean
+
+These have limits and if the number is too big then there is data overflow (& will mess up)
+
+Declaration - an allication of memort for variables
+Instantiation - an instance of a class; uses "new" keyword
+Instantiation - Asignment of value Declaration
+Assigning - equating a value to a veriable
+TypeCasting - Overload of a veriable to a different datatype; implicit or explicit
+
+system.out
+system.in
+    system is the computer
+    out is write to computer, in can take inputs to program
+
+.print("Hello World"); does not asume new line
+.println("Hello World"); does asume new line
+.printf([parameters] "Hello World"); inputs verables
+
