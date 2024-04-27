@@ -1,7 +1,0 @@
-#include <stdio.h>
-
-int main(void) {
-  count(); //reusing the memory value - old value overwritten
-  factorial(); //main idea = each veriable bound to different area in memory
-  SumMain();
-}
